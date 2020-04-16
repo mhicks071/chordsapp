@@ -1,0 +1,9 @@
+E Major/emaj.png/~
+A Major/amaj.png/~
+D Major/dmaj.png/~
+G Major/gmaj.png/~
+C Major/cmaj.png/~
+F Major/fmaj.png/~
+E Minor/emin.png/~
+A Minor/amin.png/~
+D Minor/dmin.png/~
