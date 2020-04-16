@@ -1,6 +1,6 @@
 # Chord Switching App
 Chord Switching App primarily geared towards beginners. Comes installed with the main 9 open chords (not dominant chords).
-This application was originally developed my Mason W. Hicks. The upload for this application's source materials can be found at (link).
+This application was originally developed my Mason W. Hicks. The upload for this application's source materials can be found at https://github.com/mhicks071/chordsapp.
 You can download and unpack the chords-App.zip found in the master branch.
 
 ## 1. Disclaimer & Notes
