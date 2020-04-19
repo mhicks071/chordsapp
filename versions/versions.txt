@@ -1,0 +1,16 @@
+Version 1.0 (n/p)
++Logo
++Text file to store information on chords
++File to store images of chords
+	+9 open major/minor chords
++Main Python script that switches chords every minute
+
+Version 1.1
++README file in text and markdown format
++Startup shell script with ability to be cloned as an Alias
++Commenting on main Python script
+-God awful startup time via manual installation of XQuartz to system
+
+Version 1.2
++Various dominant 7th chords
++Versions file
